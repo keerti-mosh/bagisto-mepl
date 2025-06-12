@@ -24,6 +24,18 @@ return [
                 'package_assets_directory' => 'src/Resources/assets',
             ],
         ],
+        
+        'cliqnshop' => [
+            'name'        => 'Cliqnshop',
+            'assets_path' => 'public/themes/shop/cliqnshop',
+            'views_path'  => 'resources/themes/cliqnshop/views',
+
+            'vite'        => [
+                'hot_file'                 => 'shop-cliqnshop-vite.hot',
+                'build_directory'          => 'themes/shop/cliqnshop/build',
+                'package_assets_directory' => 'src/Resources/assets',
+            ],
+        ],
     ],
 
     /*

@@ -89,6 +89,7 @@
             "Webkul\\Sales\\": "packages/Webkul/Sales/src",
             "Webkul\\Shipping\\": "packages/Webkul/Shipping/src",
             "Webkul\\Shop\\": "packages/Webkul/Shop/src",
+            "Webkul\\Cliqnshop\\": "packages/Webkul/Cliqnshop/src",
             "Webkul\\Sitemap\\": "packages/Webkul/Sitemap/src",
             "Webkul\\SocialLogin\\": "packages/Webkul/SocialLogin/src",
             "Webkul\\SocialShare\\": "packages/Webkul/SocialShare/src",
@@ -103,7 +104,8 @@
             "Webkul\\Admin\\Tests\\": "packages/Webkul/Admin/tests",
             "Webkul\\Core\\Tests\\": "packages/Webkul/Core/tests",
             "Webkul\\DataGrid\\Tests\\": "packages/Webkul/DataGrid/tests",
-            "Webkul\\Shop\\Tests\\": "packages/Webkul/Shop/tests"
+            "Webkul\\Shop\\Tests\\": "packages/Webkul/Shop/tests",
+            "Webkul\\Cliqnshop\\Tests\\": "packages/Webkul/Cliqnshop/tests"
         }
     },
     "scripts": {
